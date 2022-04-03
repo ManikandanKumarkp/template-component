@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class EmployeeComponent { 
-  code:number=1 ;
+  Code:number=1 ;
   Name:string="Manikandan ";
-  age:number=25;
-  dob:string="19/12/1996";
+  Age:number=25;
+  Dob:string="19/12/1996";
 }
