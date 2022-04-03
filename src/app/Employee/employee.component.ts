@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styles: [`p{ font-style:san; } `],
 })
 export class EmployeeComponent { 
-
+  code:number= 34;
+  name:string="mani";
 }
