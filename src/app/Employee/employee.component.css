@@ -1,7 +1,3 @@
-table,thead,tr,td {
-  border: 2px solid blue ;
-  border-top:blue   ;
-  border-bottom: blue ;
-  border-left:  blue ;
-border-right: blue ;
+table,th,td {
+  border: 2px solid ;
 }
