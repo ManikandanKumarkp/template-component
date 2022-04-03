@@ -6,3 +6,10 @@ p{
   color:blueviolet;
   font-size:large ;
 }
+.btn{
+  padding:5px;
+  border:1px solid blue;
+  margin:0px;
+  border-radius: 5px;
+  display: inline-flex;
+}
