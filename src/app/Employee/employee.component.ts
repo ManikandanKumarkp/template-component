@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'emp',
   templateUrl:`./employee.component.html`,
-  styles: [`./employee.component.css `]
+  styleurls:[`./employee.component.css `]
 })
 export class EmployeeComponent { 
   Code:number=1 ;
