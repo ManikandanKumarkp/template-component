@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'emp',
-  templateUrl:`./employee.component.html`,
-  styleurls:[`./employee.component.css `]
+  templateUrl:'./employee.component.html',
+  styleUrls:['./employee.component.css']
 })
 export class EmployeeComponent { 
   Code:number=1 ;
