@@ -14,6 +14,8 @@ export class EmployeeComponent {
   onclick (): void {
     console.log('clicked ');
   }
-  
+  constructor(){
+    this.employee=[{code:"2",Name:"sas", Age:23, Dob: "15/6/1998"}]
+  }
 
 }
