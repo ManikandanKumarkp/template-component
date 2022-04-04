@@ -12,8 +12,4 @@ export class EmployeeComponent {
   Dob:string="19/12/1996";
 
 
-function click (){
-document.getelementbyid("submit").innerhtml='clicked';
-}
-
 }
