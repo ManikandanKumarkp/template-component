@@ -12,6 +12,6 @@ export class EmployeeComponent {
   Dob:string="19/12/1996";
 
   
-  }
+  
 
 }
