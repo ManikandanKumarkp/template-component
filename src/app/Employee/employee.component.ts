@@ -13,7 +13,7 @@ export class EmployeeComponent {
 
 
 function click (){
-document.getelementbyid("submit").innerhtml=click('button clicked' );
+document.getelementbyid("submit").innerhtml='clicked';
 }
 
 }
