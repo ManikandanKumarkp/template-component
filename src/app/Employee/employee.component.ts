@@ -12,7 +12,7 @@ export class EmployeeComponent {
   Dob:string="19/12/1996";
 
   function click(){
-    document.getElementById("demo ").innerHTML="Date()";
+    document.getElementById("demo ").innerHTML=clicked;
   }
 
 }
