@@ -12,8 +12,8 @@ export class EmployeeComponent {
   Dob:string="19/12/1996";
 
 
-
-onclick="document.getelementbyid('submit').innerhtml=date();"
-  
+function click (){
+document.getelementbyid("submit").innerhtml=click('button clicked' );
+}
 
 }
