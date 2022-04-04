@@ -10,4 +10,10 @@ export class EmployeeComponent {
   Name:string="Manikandan ";
   Age:number=25;
   Dob:string="19/12/1996";
+
+
+
+onclick="document.getelementbyid('submit').innerhtml=date();"
+  
+
 }
