@@ -11,5 +11,8 @@ export class EmployeeComponent {
   Age:number=25;
   Dob:string="19/12/1996";
 
+  function click(){
+    document.getElementById("demo ").innerHTML="Date()";
+  }
 
 }
